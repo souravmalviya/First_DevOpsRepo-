@@ -16,6 +16,10 @@ pipeline {
             steps {
                 echo 'Thanks for using Jenkins'
             }
+        stage('Four') {
+            steps {
+                echo 'Thanks for using Jenkins Again'
+            }
         }
     }
 }
