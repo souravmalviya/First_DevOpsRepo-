@@ -1,0 +1,34 @@
+git config --global user.name "souravmalviya"
+git config --global user.email souravmalviya....
+git config --list
+pwd //to se where the file will be saved 
+mkdir git_demo
+cd git_demo
+pwd //
+mkdir FirstRepo
+cd FirstRepo
+pwd
+//
+git init
+touch alpha.txt
+notepad alpha.txt
+git status
+git add .
+git commit -m "beta gama"
+git log
+//same rep 13-18 another name , make new repo
+repo name == forst repo
+git remote add origi command in (cmd
+git remote -v
+git push -u origin master
+//mke a new folder any nme copy folder and take it to the directory paste the folder 
+//go gitbash
+git add .
+git commit -m "add folder"
+git push -u origin master
+
+
+
+
+
+
