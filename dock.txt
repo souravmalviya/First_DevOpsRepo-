@@ -9,7 +9,7 @@ docker run ubuntu
 docker images
 docker stop <name of your container>
  //
- sh 
+ shym
  docker pull ubuntu
  docker rub -it -d ubuntu
  docker tag ubuntu sourav1602/ubuntu
