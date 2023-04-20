@@ -11,7 +11,7 @@ docker stop <name of your container>
  //
  shym
  docker pull ubuntu
- docker rub -it -d ubuntu
+ docker run -it -d ubuntu
  docker tag ubuntu sourav1602/ubuntu
  docker push sourav1602/ubuntu
  
