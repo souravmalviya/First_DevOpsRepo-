@@ -28,7 +28,17 @@ git commit -m "add folder"
 git push -u origin master
 
 
-
+////pull
+Pull command
+mkdir git_demo
+cd git_demo
+pwd
+mkdir changes
+cd changes
+pwd
+git init
+//go to github and copy url
+git pull link http
 
 
 
