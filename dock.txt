@@ -1,3 +1,17 @@
 docker image
 docker login
 user name - sourav1602
+
+
+docker --version
+docker login
+docker run ubuntu
+docker images
+docker stop <name of your container>
+ //
+ sh 
+ docker pull ubuntu
+ docker rub -it -d ubuntu
+ docker tag ubuntu sourav1602/ubuntu
+ docker push sourav1602/ubuntu
+ 
